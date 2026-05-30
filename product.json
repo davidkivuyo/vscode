@@ -240,5 +240,8 @@
     "itemUrl": "https://open-vsx.org/vscode/item",
     "resourceUrlTemplate": "https://open-vsx.org/vscode/unpkg/{publisher}/{name}/{version}/{path}",
     "extensionUrlTemplate": "https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest"
-}
+},
+"linkProtectionTrustedDomains": [
+    "https://open-vsx.org"
+]
 }
